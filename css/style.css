@@ -58,4 +58,9 @@ body{
     .projects{
         grid-template-columns: repeat(1,1fr);
     }
+
+    .project img{
+        width: 100%;
+        height: 185px;
+    }
 }
